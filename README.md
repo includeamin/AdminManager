@@ -1,0 +1,2 @@
+# AdminManager
+proof of concept
